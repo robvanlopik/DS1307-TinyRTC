@@ -1,6 +1,6 @@
 Class {
 	#name : #PotI2CDS1307EEPROM,
-	#superclass : #Object,
+	#superclass : #PotI2CDevice,
 	#category : #'PharoThings-Devices-DS1307-RTC'
 }
 

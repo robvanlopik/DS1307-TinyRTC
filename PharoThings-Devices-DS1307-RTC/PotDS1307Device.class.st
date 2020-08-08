@@ -23,7 +23,7 @@ Internal Representation and Key Implementation Points.
 "
 Class {
 	#name : #PotDS1307Device,
-	#superclass : #Object,
+	#superclass : #PotI2CDevice,
 	#category : #'PharoThings-Devices-DS1307-RTC'
 }
 
